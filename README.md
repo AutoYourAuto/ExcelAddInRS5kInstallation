@@ -9,7 +9,7 @@ How to install?
 1.	Unzip ExcellAddInRS5k.
 2.	Double click setup.exe in the unzipped folder.
  
-3.	Click Install button. You are supposed to see this.
+3.	Click Install button.
  
 4.	Open Excel. The add-in should be loaded automatically. You can see it in the Option\Add-ins.
  
