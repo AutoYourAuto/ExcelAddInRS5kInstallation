@@ -12,7 +12,7 @@ Features:
 ⦁	Generate importable .L5X routine file.
 
 Watch the video on YouTube: https://youtu.be/NJ_qmoXG5Xg?si=nJBl8I0bqTpaizhJ
-Please thumb up.
+Please comment, thumb up, subscribe.
 
 How to install?
 
