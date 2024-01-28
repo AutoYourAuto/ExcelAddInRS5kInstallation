@@ -1,3 +1,4 @@
+
 What is this?
 
 This is a Excel add-in which can be used to generate the importable program and tag database for Rockwell ControlLogix application built in RSLogix5000.
@@ -9,6 +10,9 @@ Features:
 ⦁	Generate importable .csv tag file.
 
 ⦁	Generate importable .L5X routine file.
+
+Watch the video on YouTube: https://youtu.be/NJ_qmoXG5Xg?si=nJBl8I0bqTpaizhJ
+Please thumb up.
 
 How to install?
 
